@@ -17,7 +17,7 @@
     "paths": {
       "@/*": ["./*"],
       "@/components/*": ["components/*"],
-      "@/utils/*": ["uti;s/*"]
+      "@/utils/*": ["utils/*"]
     },
     "plugins": [
       {

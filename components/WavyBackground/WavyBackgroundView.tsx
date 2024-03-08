@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { WavyBackground } from "@/components/WavyBackground/wavybackground";
+import { WavyBackground } from "@/components/WavyBackground/WavyBackground";
 
 export function WavyBackgroundDemo() {
   return (
