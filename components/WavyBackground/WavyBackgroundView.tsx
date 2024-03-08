@@ -1,8 +1,10 @@
 "use client";
 import React from "react";
 import { WavyBackground } from "@/components/WavyBackground/WavyBackground";
+import { TypewriterEffect } from "@/components/TypeWritterEffect/TypeWritterEffect";
 
 export function WavyBackgroundDemo() {
+
   return (
     <WavyBackground className="max-w-4xl mx-auto pb-40">
       <p className="text-2xl md:text-4xl lg:text-7xl text-white font-bold inter-var text-center">
