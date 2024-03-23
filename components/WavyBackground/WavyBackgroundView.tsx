@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { WavyBackground } from "@/components/WavyBackground/WavyBackground";
-import { TypewriterEffect } from "@/components/TypeWritterEffect/TypeWritterEffect";
+// import { TypewriterEffect } from "@/components/TypeWritterEffect/TypeWritterEffect";
 
 export function WavyBackgroundDemo() {
 
